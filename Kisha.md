@@ -19,7 +19,8 @@
 
 ---
 
-'code here'
+`code here`
+
 ```
 # code block here
 git clone...
